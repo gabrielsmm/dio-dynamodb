@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Chris Brown"},
+  "SongTitle": {"S": "Passing Time"},
+  "AlbumTitle": {"S": "Breezy"},
+  "SongYear": {"S": "2022"}
+}

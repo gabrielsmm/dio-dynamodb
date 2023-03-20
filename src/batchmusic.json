@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Chris Brown"},
+                  "SongTitle": {"S": "Loyal"},
+                  "AlbumTitle": {"S": "X"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Chris Brown"},
+                  "SongTitle": {"S": "Party"},
+                  "AlbumTitle": {"S": "Heartbreak on a Full Moon"},
+                  "SongYear": {"S": "2017"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Chris Brown"},
+                  "SongTitle": {"S": "Under The Influence"},
+                  "AlbumTitle": {"S": "Indigo (Extended)"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        }
+      ]
+}
